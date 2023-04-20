@@ -1,0 +1,4 @@
+Django==4.2															
+djangorestframework==3.14.0
+black==23.3.0
+django-rest-swagger==2.2.0
